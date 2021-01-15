@@ -1,0 +1,5 @@
+Microsoft Edge is a cross-platform web browser developed by Microsoft. It was first released for Windows 10 and Xbox One in 2015, then for Android and iOS in 2017,[7][8] for macOS in 2019,[9] and as a preview for Linux in October 2020.[10][11]
+
+Edge includes integration with Cortana and has extensions hosted on the Microsoft Store. Unlike Internet Explorer, Edge does not support the legacy ActiveX and BHO technologies.
+
+Edge was initially built with Microsoft's own proprietary browser engine EdgeHTML and their Chakra JavaScript engine, a version now referred to as Microsoft Edge Legacy.[12] In 2019, Microsoft announced plans to rebuild the browser as
