@@ -1,0 +1,6 @@
+firefox shows me the website im trying to go to but part of it is blocked and i got to click the icon next to the web address to unblock it how do i turn it off so i never have to click the icon next to the web address?
+Chosen solution
+
+Did you click the toolbar button ("A") of the extension to change the background color of the icon from green to red?
+
+Red means that you allow mixed content. You should only set this to red on websites that you trust and if the site isn't working properly. 
